@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "git-task-ooo",
   "version": "1.0.0",
   "description": "A boilerplate for the Git Basics course in Booost",
@@ -8,11 +9,13 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://gitlab.com/booost/boilerplates/git-task-ooo.git"
   },
   "author": "Association Booost",
   "license": "ISC",
   "bugs": {
+<<<<<<< HEAD
     "url": "https://gitlab.com/booost/boilerplates/git-task/issues"
   },
   "homepage": "https://gitlab.com/booost/boilerplates/git-task#readme"
